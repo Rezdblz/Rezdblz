@@ -2,8 +2,7 @@
 
 # Hi, I'm Dimas Reza
 
-**Back-end developer** — I build APIs, auth flows, and the databases behind them,
-then wire them up to a frontend that doesn't get in the way.
+**Back-end developer** -
 
 [![GitHub](https://img.shields.io/badge/GitHub-Rezdblz-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Rezdblz)
 
